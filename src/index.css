@@ -1,0 +1,26 @@
+/* General Css */
+@import './styles/general.module.css';
+
+/* Button Css */
+@import './styles/button.module.css';
+
+/* Popup Css */
+@import './styles/addBookPopup.module.css';
+
+/* SearchBar Css */
+@import './styles/searchBar.module.css';
+
+/* BookList Css */
+@import './styles/bookList.module.css';
+
+/* SortDropdown.module.css */
+@import './styles/SortDropdown.module.css';
+
+/* BookDetails Css */
+@import './styles/BookDetails.module.css';
+
+/* Header Css */
+@import './styles/header.module.css';
+
+
+
